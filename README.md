@@ -2,6 +2,10 @@
 
 An end-to-end retail analytics project that combines MySQL source databases, a Python ETL pipeline, a dimensional data warehouse, and an interactive Power BI report.
 
+<img width="1907" height="1020" alt="PBI 1" src="https://github.com/user-attachments/assets/1d42536b-6281-4d67-b29e-d74816db2938" />
+<img width="1917" height="990" alt="PBI 2" src="https://github.com/user-attachments/assets/8d616d74-7e84-4d0a-950f-48e4b949f19a" />
+
+
 ## Project overview
 
 The SuperMart project demonstrates how retail sales and inventory data can be collected from operational databases, transformed with Python, stored in a MySQL data warehouse, and explored through Power BI dashboards.
